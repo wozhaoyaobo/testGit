@@ -1,2 +1,2 @@
 # test111Git
-to perform the git function
+to perform the git functions
